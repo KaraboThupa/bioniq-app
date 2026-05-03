@@ -1,12 +1,22 @@
 # Bioniq App
 
-A client mobile application for ISP customers to manage Wi-Fi, connected devices, billing, and receive AI-powered support.
+A mobile application designed for ISP customers to manage their network, control connected devices, handle billing, and receive AI-powered support.
+
+---
+
+## Purpose
+
+This project demonstrates how an Internet Service Provider (ISP) can improve customer experience by combining a mobile application with AI-powered support.
+
+It focuses on reducing manual support workload, giving users direct control over their network, and enabling faster issue resolution through automation.
 
 ---
 
 ## Overview
 
 Bioniq improves customer experience by giving users control over their network and access to automated support.
+
+The system integrates AI to assist with troubleshooting, device management, and billing-related queries, reducing the need for direct technician intervention.
 
 ---
 
@@ -24,9 +34,17 @@ Bioniq improves customer experience by giving users control over their network a
 
 ## Tech Stack
 
-- Flutter (Frontend)  
-- Node.js / Express (Backend)  
-- Google Gemini API (AI)  
+- Frontend: Flutter  
+- Backend: Node.js (Express)  
+- AI Integration: Google Gemini API   
+
+---
+
+## Key Concept
+
+This project is built around the idea of a "self-service ISP system", where customers can resolve most issues without contacting support.
+
+The AI assistant acts as the first line of support, while the mobile app provides full control over network settings, devices, and billing.
 
 ---
 
