@@ -659,7 +659,7 @@ class ChatMessage {
 }
 
 class GeminiService {
-  static const String apiKey = 'AIzaSyDUieviJ20AiHPsUlYYuMfjgSua_ScdCjo';
+  static const String apiKey = 'YOUR_API_KEY_HERE';
 
   static const List<String> _models = [
     'gemini-2.0-flash',
