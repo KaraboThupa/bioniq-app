@@ -1,37 +1,70 @@
-# Bioniq App
+# 🚀 Bioniq App
 
-A prototype mobile application for managing internet services and improving customer support.
+A smart client mobile application for ISP customers to manage their Wi-Fi, connected devices, billing, and get AI-powered support.
 
-## Overview
+---
 
-This project demonstrates how an ISP client app can help users manage their network, view connected devices, monitor status, and access support features.
+## 📱 Overview
 
-## Features
+Bioniq is designed to improve customer experience in internet service providers by giving users full control over their network and instant support through AI.
 
-- User login interface
-- Dashboard/home screen
-- Connected devices view (concept)
-- WiFi management (concept)
-- Network status display
-- AI-assisted support (demo)
+---
 
-## Tech Stack
+## ✨ Features
 
-- Flutter (Dart)
-- Node.js (backend concept)
-- API-based AI integration
+- 🔐 Secure login using unique client ID
+- 📡 View and manage Wi-Fi settings (SSID & password)
+- 📱 Monitor connected devices
+- 🚫 Block or disconnect unknown users
+- 💳 Billing system with payment status & instructions
+- ⚠️ Service restriction when payment is overdue
+- 🤖 AI Assistant for customer support
 
-## Key File
+---
 
-Main application logic:
-- lib/main.dart
+## 🤖 AI Assistant
 
-## Notes
+The app includes an AI-powered assistant that helps users:
 
-This project is built as a prototype to demonstrate application flow, UI design, and feature concepts for an ISP client application.
+- Diagnose internet issues
+- Report router problems
+- Get instant support without calling
+- Escalate serious faults to technicians
 
-Some features use simulated data to represent how a real system would function.
+---
 
-## Purpose
+## 🧠 Tech Stack
 
-The goal of this project is to explore app development, backend integration concepts, and practical problem-solving in a real-world ISP scenario.
+- **Frontend:** Flutter
+- **Backend:** Node.js (Express)
+- **AI:** Google Gemini API
+- **Database (Demo):** Simulated / Supabase-ready
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home
+![Home](assets/screenshots/home.png)
+
+### 🤖 Assistant
+![Assistant](assets/screenshots/assistant.png)
+
+### 📱 Devices
+![Devices](assets/screenshots/devices.png)
+
+### 💳 Billing
+![Billing](assets/screenshots/billing.png)
+
+### 📶 Wi-Fi Settings
+![WiFi](assets/screenshots/wifi.png)
+
+---
+
+## ⚙️ How to Run
+
+### 1. Start Backend
+```bash
+cd bioniq-backend
+npm install
+npm run dev
