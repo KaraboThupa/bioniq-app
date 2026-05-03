@@ -1,17 +1,37 @@
-# bioniq_app
+# Bioniq App
 
-A new Flutter project.
+A prototype mobile application for managing internet services and improving customer support.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This project demonstrates how an ISP client app can help users manage their network, view connected devices, monitor status, and access support features.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- User login interface
+- Dashboard/home screen
+- Connected devices view (concept)
+- WiFi management (concept)
+- Network status display
+- AI-assisted support (demo)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- Flutter (Dart)
+- Node.js (backend concept)
+- API-based AI integration
+
+## Key File
+
+Main application logic:
+- lib/main.dart
+
+## Notes
+
+This project is built as a prototype to demonstrate application flow, UI design, and feature concepts for an ISP client application.
+
+Some features use simulated data to represent how a real system would function.
+
+## Purpose
+
+The goal of this project is to explore app development, backend integration concepts, and practical problem-solving in a real-world ISP scenario.
