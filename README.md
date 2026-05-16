@@ -21,10 +21,10 @@ The goal is to reduce manual support workload while giving customers direct cont
 # Screenshots
 
 ## Client Dashboard
-![Dashboard](screenshots/home.png)
+![Dashboard](assets/screenshots/home.png)
 
 ## AI Assistant
-![AI Assistant](screenshots/assistant.png)
+![AI Assistant](assets/screenshots/assistant.png)
 
 ---
 
